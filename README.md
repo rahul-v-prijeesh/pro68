@@ -1,1 +1,1 @@
-# pro68
+# pro69 barcode scanner code
